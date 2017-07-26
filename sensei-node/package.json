@@ -18,10 +18,6 @@
     "request-promise": "^4.2.1",
     "twilio": "^3.5.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/doomcatlee/sensei-node.git"
-  },
   "author": "Alex Lee",
   "license": "ISC",
   "bugs": {
